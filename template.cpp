@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define debug(x) cout << #x << " " << x << endl;
-typedef unsigned long long ull;
-typedef long long int ll;
+using ll = long long;
+using ull = unsigned long long;
 using namespace std;
 void solve()
 {
